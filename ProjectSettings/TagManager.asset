@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - windArea
+  - Spring
+  - FallingObject
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Enemy
+  - Bullet
+  - Pieces
+  - Platform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1377571009
+    locked: 0
+  - name: Trap
+    uniqueID: 2163300485
+    locked: 0
+  - name: Ground
+    uniqueID: 3341495499
+    locked: 0
+  - name: Enemy
+    uniqueID: 265383651
+    locked: 0
+  - name: Pieces
+    uniqueID: 2662807073
+    locked: 0
+  - name: Player
+    uniqueID: 3279149453
+    locked: 0
+  - name: water
+    uniqueID: 956226601
+    locked: 0

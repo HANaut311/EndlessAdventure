@@ -1,0 +1,6916 @@
+fileFormatVersion: 2
+guid: 59edf9f23a8e17443a732760c2a3f9ce
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 16
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 638274331194647781
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Magic Trap Preview_Frame_0
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 144
+      height: 64
+    spriteID: e1f320d080a8e9c45a6e9521ac4a2c34
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Magic Trap Preview_Frame_1
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 156
+      y: 4
+      width: 144
+      height: 64
+    spriteID: 26a5468a365499841b6803bcf8c58746
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 156, y: 4}
+  - name: Magic Trap Preview_Frame_2
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 308
+      y: 4
+      width: 144
+      height: 64
+    spriteID: 441cb9fdd5809704b913b8aa56b7f91d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 308, y: 4}
+  - name: Magic Trap Preview_Frame_3
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 460
+      y: 4
+      width: 144
+      height: 64
+    spriteID: 1ab54f7e025e8ee4886b81f76eaa62ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 460, y: 4}
+  - name: Magic Trap Preview_Frame_4
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 612
+      y: 4
+      width: 144
+      height: 64
+    spriteID: b509a2ca2964aaf4fb6826118e2fed7c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 612, y: 4}
+  - name: Magic Trap Preview_Frame_5
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 764
+      y: 4
+      width: 144
+      height: 64
+    spriteID: 01c678f7e6362ce4089426dcd4eae1fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 764, y: 4}
+  - name: Magic Trap Preview_Frame_6
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 916
+      y: 4
+      width: 144
+      height: 64
+    spriteID: 7800a6bf708c7164c8cc4b55a32727fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 916, y: 4}
+  - name: Magic Trap Preview_Frame_7
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1068
+      y: 4
+      width: 144
+      height: 64
+    spriteID: 3a9bcc6728f727d44b6a8d39f1f51359
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1068, y: 4}
+  - name: Magic Trap Preview_Frame_8
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1220
+      y: 4
+      width: 144
+      height: 64
+    spriteID: 4200f917a8adaf849b260aae0a8ef94d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1220, y: 4}
+  - name: Magic Trap Preview_Frame_9
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1372
+      y: 4
+      width: 144
+      height: 64
+    spriteID: 920d1567d02259343bba176a74d2bd26
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1372, y: 4}
+  - name: Magic Trap Preview_Frame_10
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1524
+      y: 4
+      width: 144
+      height: 64
+    spriteID: dcf231642a1825840a9efd860538a4a6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1524, y: 4}
+  - name: Magic Trap Preview_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1676
+      y: 4
+      width: 144
+      height: 64
+    spriteID: 44fa78f4ed6456e4697f9e5682d1d2a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1676, y: 4}
+  - name: Magic Trap Preview_Frame_12
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1828
+      y: 4
+      width: 144
+      height: 64
+    spriteID: 894b1fb9ff180fe4a89188c57361d360
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1828, y: 4}
+  - name: Magic Trap Preview_Frame_13
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 76
+      width: 144
+      height: 64
+    spriteID: 0c0df0bb075541e42b1fa40d4a2a8346
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 76}
+  - name: Magic Trap Preview_Frame_14
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 156
+      y: 76
+      width: 144
+      height: 64
+    spriteID: d9f1c013e3f80ee478d2edb19ebe9163
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 156, y: 76}
+  - name: Magic Trap Preview_Frame_15
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 308
+      y: 76
+      width: 144
+      height: 64
+    spriteID: 671d72a781520c64897f0cf80e08bcf1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 308, y: 76}
+  - name: Magic Trap Preview_Frame_16
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 460
+      y: 76
+      width: 144
+      height: 64
+    spriteID: 9b64b3e04df60fc408e69ff71dcdf0e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 460, y: 76}
+  - name: Magic Trap Preview_Frame_17
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 612
+      y: 76
+      width: 144
+      height: 64
+    spriteID: 947d908b662d2f64589cdde2c28b4139
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 612, y: 76}
+  - name: Magic Trap Preview_Frame_18
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 764
+      y: 76
+      width: 144
+      height: 64
+    spriteID: dfac27483dfdf73419994d50f56796c1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 764, y: 76}
+  - name: Magic Trap Preview_Frame_19
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 916
+      y: 76
+      width: 144
+      height: 64
+    spriteID: 48048acf143b85a4b993c6e99cd493dd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 916, y: 76}
+  - name: Magic Trap Preview_Frame_20
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1068
+      y: 76
+      width: 144
+      height: 64
+    spriteID: eac605778e06e94419552526a56fa0f7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1068, y: 76}
+  - name: Magic Trap Preview_Frame_21
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1220
+      y: 76
+      width: 144
+      height: 64
+    spriteID: dd1d36356d30ac84788912db5fedc461
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1220, y: 76}
+  - name: Magic Trap Preview_Frame_22
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1372
+      y: 76
+      width: 144
+      height: 64
+    spriteID: 560a4f16cfd6bfa45a52b98e10e7e991
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1372, y: 76}
+  - name: Magic Trap Preview_Frame_23
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1524
+      y: 76
+      width: 144
+      height: 64
+    spriteID: 0fd17f2af7dbbc949b08556aeaa141c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1524, y: 76}
+  - name: Magic Trap Preview_Frame_24
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1676
+      y: 76
+      width: 144
+      height: 64
+    spriteID: 8ade6fad4e535aa4a9d45a0547f880c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1676, y: 76}
+  - name: Magic Trap Preview_Frame_25
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1828
+      y: 76
+      width: 144
+      height: 64
+    spriteID: 05f903e394801a24f84d8952e0c034f1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1828, y: 76}
+  - name: Magic Trap Preview_Frame_26
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 148
+      width: 144
+      height: 64
+    spriteID: fe11c7ddf3591f1408fe635b16821989
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 148}
+  - name: Magic Trap Preview_Frame_27
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 156
+      y: 148
+      width: 144
+      height: 64
+    spriteID: 59437f9ebe47a524881c7a16781f4b90
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 156, y: 148}
+  - name: Magic Trap Preview_Frame_28
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 308
+      y: 148
+      width: 144
+      height: 64
+    spriteID: e8dba1d3d9f81634aa51a7dd1839ff99
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 308, y: 148}
+  - name: Magic Trap Preview_Frame_29
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 460
+      y: 148
+      width: 144
+      height: 64
+    spriteID: 3d5cccdd1e6f0064bb1690483bce0452
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 460, y: 148}
+  - name: Magic Trap Preview_Frame_30
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 612
+      y: 148
+      width: 144
+      height: 64
+    spriteID: fc9eeb38c5c23354cadb540be9510192
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 612, y: 148}
+  - name: Magic Trap Preview_Frame_31
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 764
+      y: 148
+      width: 144
+      height: 64
+    spriteID: 41b9ff8c34e0f8c4fa533864116ae891
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 764, y: 148}
+  - name: Magic Trap Preview_Frame_32
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 916
+      y: 148
+      width: 144
+      height: 64
+    spriteID: 6e68a0a43bb3447419a5a06197b5a24a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 916, y: 148}
+  - name: Magic Trap Preview_Frame_33
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1068
+      y: 148
+      width: 144
+      height: 64
+    spriteID: 5a679615365532443bf07c99e74e5431
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1068, y: 148}
+  - name: Magic Trap Preview_Frame_34
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1220
+      y: 148
+      width: 144
+      height: 64
+    spriteID: ec7048ca7acdf1347bf7ea3534c7cbb8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1220, y: 148}
+  - name: Magic Trap Preview_Frame_35
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1372
+      y: 148
+      width: 144
+      height: 64
+    spriteID: 3b461702d737ba7449b6dddbc6adee80
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1372, y: 148}
+  - name: Magic Trap Preview_Frame_36
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1524
+      y: 148
+      width: 144
+      height: 64
+    spriteID: 1f0a31e5e266d714d95e77f4c0a96ebd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1524, y: 148}
+  - name: Magic Trap Preview_Frame_37
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1676
+      y: 148
+      width: 144
+      height: 64
+    spriteID: 689a9c24768d22143ba3a3c69c0fe4f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1676, y: 148}
+  - name: Magic Trap Preview_Frame_38
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1828
+      y: 148
+      width: 144
+      height: 64
+    spriteID: c2abff51947397e47a20b5b1b58f2c73
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1828, y: 148}
+  - name: Magic Trap Preview_Frame_39
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 220
+      width: 144
+      height: 64
+    spriteID: a22c2d86cf7e8fa4ab4491d9b90de494
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 220}
+  - name: Magic Trap Preview_Frame_40
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 156
+      y: 220
+      width: 144
+      height: 64
+    spriteID: afba36db647b0d549962d75464a1e285
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 156, y: 220}
+  - name: Magic Trap Preview_Frame_41
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 308
+      y: 220
+      width: 144
+      height: 64
+    spriteID: 1baea786f40d55c4f93920f1dfa2320d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 308, y: 220}
+  - name: Magic Trap Preview_Frame_42
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 460
+      y: 220
+      width: 144
+      height: 64
+    spriteID: e953ebfe38946f74d9876b78396fee85
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 460, y: 220}
+  - name: Magic Trap Preview_Frame_43
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 612
+      y: 220
+      width: 144
+      height: 64
+    spriteID: 6d48282ef7e11644f9056c463f74a68a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 612, y: 220}
+  - name: Magic Trap Preview_Frame_44
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 764
+      y: 220
+      width: 144
+      height: 64
+    spriteID: 9d01614a857babf48994af975da40bc8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 764, y: 220}
+  - name: Magic Trap Preview_Frame_45
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 916
+      y: 220
+      width: 144
+      height: 64
+    spriteID: 64b236eef7fda6f488738bbefa33b886
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 916, y: 220}
+  - name: Magic Trap Preview_Frame_46
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1068
+      y: 220
+      width: 144
+      height: 64
+    spriteID: 037cbe48be6d2d14d81b669a3649c877
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1068, y: 220}
+  - name: Magic Trap Preview_Frame_47
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1220
+      y: 220
+      width: 144
+      height: 64
+    spriteID: 7c3f372debe87764cbe2f2d152365d01
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1220, y: 220}
+  - name: Magic Trap Preview_Frame_48
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1372
+      y: 220
+      width: 144
+      height: 64
+    spriteID: 2137ab3ee932dc740a4d7955401b8f5c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1372, y: 220}
+  - name: Magic Trap Preview_Frame_49
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1524
+      y: 220
+      width: 144
+      height: 64
+    spriteID: 525bda5dc6d6bba48bbc1b078f7a4770
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1524, y: 220}
+  - name: Magic Trap Preview_Frame_50
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1676
+      y: 220
+      width: 144
+      height: 64
+    spriteID: a9be33d1426a62142850e3e1d52f3eae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1676, y: 220}
+  - name: Magic Trap Preview_Frame_51
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1828
+      y: 220
+      width: 144
+      height: 64
+    spriteID: 8ebef0f1a24e4244db9b50a3f243178f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1828, y: 220}
+  - name: Magic Trap Preview_Frame_52
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 292
+      width: 144
+      height: 64
+    spriteID: 48da39856b354024384dd480444e26b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 292}
+  - name: Magic Trap Preview_Frame_53
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 156
+      y: 292
+      width: 144
+      height: 64
+    spriteID: d517f89db1068c84da777c373482eea3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 156, y: 292}
+  - name: Magic Trap Preview_Frame_54
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 308
+      y: 292
+      width: 144
+      height: 64
+    spriteID: dd9324ed979308d4cafd48fd8d3f995a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 308, y: 292}
+  - name: Magic Trap Preview_Frame_55
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 460
+      y: 292
+      width: 144
+      height: 64
+    spriteID: 37a374b07d566a74285582e5a3490977
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 460, y: 292}
+  - name: Magic Trap Preview_Frame_56
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 612
+      y: 292
+      width: 144
+      height: 64
+    spriteID: 5e6d5458681041f47ae6d404caf2087e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 612, y: 292}
+  - name: Magic Trap Preview_Frame_57
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 764
+      y: 292
+      width: 144
+      height: 64
+    spriteID: 60d775c0f3b89a340a9a423883c55d96
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 764, y: 292}
+  - name: Magic Trap Preview_Frame_58
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 916
+      y: 292
+      width: 144
+      height: 64
+    spriteID: a08bbe78c626e3f42a32a70eee64c53f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 916, y: 292}
+  - name: Magic Trap Preview_Frame_59
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1068
+      y: 292
+      width: 144
+      height: 64
+    spriteID: f5a21ea4da207324b87e1ae3a29ea21b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1068, y: 292}
+  - name: Magic Trap Preview_Frame_60
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1220
+      y: 292
+      width: 144
+      height: 64
+    spriteID: 999dd432c1f06eb468e7d2d18fa2a565
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1220, y: 292}
+  - name: Magic Trap Preview_Frame_61
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1372
+      y: 292
+      width: 144
+      height: 64
+    spriteID: 689a542523add034dbbd943cf7e592c7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1372, y: 292}
+  - name: Magic Trap Preview_Frame_62
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1524
+      y: 292
+      width: 144
+      height: 64
+    spriteID: 1253cf67c4096454b98bc2ebefc2fd50
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1524, y: 292}
+  - name: Magic Trap Preview_Frame_63
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1676
+      y: 292
+      width: 144
+      height: 64
+    spriteID: c61896640a9b32040a9f0207de46a431
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1676, y: 292}
+  - name: Magic Trap Preview_Frame_64
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1828
+      y: 292
+      width: 144
+      height: 64
+    spriteID: 80f580c0b216948419443039e8f62ac9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1828, y: 292}
+  - name: Magic Trap Preview_Frame_65
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 364
+      width: 144
+      height: 64
+    spriteID: 13fd1df516799014da626f9c9b1d891f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 364}
+  - name: Magic Trap Preview_Frame_66
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 156
+      y: 364
+      width: 144
+      height: 64
+    spriteID: a18951211f308b44b9d1a857a252574a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 156, y: 364}
+  - name: Magic Trap Preview_Frame_67
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 308
+      y: 364
+      width: 144
+      height: 64
+    spriteID: 4da3121636a6cac4b8d6f979088f63a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 308, y: 364}
+  - name: Magic Trap Preview_Frame_68
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 460
+      y: 364
+      width: 144
+      height: 64
+    spriteID: 0e4f8ff4d342a8846ab75e927d495c10
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 460, y: 364}
+  - name: Magic Trap Preview_Frame_69
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 612
+      y: 364
+      width: 144
+      height: 64
+    spriteID: 44fc29aba6613364cb1f055be8267fbf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 612, y: 364}
+  - name: Magic Trap Preview_Frame_70
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 764
+      y: 364
+      width: 144
+      height: 64
+    spriteID: 1c925caca39b08e4bbc6b3c2bee2d7af
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 764, y: 364}
+  - name: Magic Trap Preview_Frame_71
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 916
+      y: 364
+      width: 144
+      height: 64
+    spriteID: 8a0bd7f2c92af6e4a93c51bc97b1edf0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 916, y: 364}
+  - name: Magic Trap Preview_Frame_72
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1068
+      y: 364
+      width: 144
+      height: 64
+    spriteID: 4cea2a69931cc714b88d40c5d1ad3b1a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1068, y: 364}
+  - name: Magic Trap Preview_Frame_73
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1220
+      y: 364
+      width: 144
+      height: 64
+    spriteID: d99a960e8fe71814b80735d7fafd7442
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1220, y: 364}
+  - name: Magic Trap Preview_Frame_74
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1372
+      y: 364
+      width: 144
+      height: 64
+    spriteID: 9134947cd9c481a4e92b381ccda05c03
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1372, y: 364}
+  - name: Magic Trap Preview_Frame_75
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1524
+      y: 364
+      width: 144
+      height: 64
+    spriteID: c531d08bb54e0e14280be1d1d3725457
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1524, y: 364}
+  - name: Magic Trap Preview_Frame_76
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1676
+      y: 364
+      width: 144
+      height: 64
+    spriteID: fd0d1c5a1fda6a446938dee604243ede
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1676, y: 364}
+  - name: Magic Trap Preview_Frame_77
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1828
+      y: 364
+      width: 144
+      height: 64
+    spriteID: ae73ef1e6b2d68149af18cc02ad99e5a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1828, y: 364}
+  - name: Magic Trap Preview_Frame_78
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 436
+      width: 144
+      height: 64
+    spriteID: 920f5da0a33142846bedfc80638cb151
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 436}
+  - name: Magic Trap Preview_Frame_79
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 156
+      y: 436
+      width: 144
+      height: 64
+    spriteID: 88046ecea832d8547ab88381d8cc6bb3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 156, y: 436}
+  - name: Magic Trap Preview_Frame_80
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 308
+      y: 436
+      width: 144
+      height: 64
+    spriteID: 37b8e453d158bc54fbeb857ee5b912e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 308, y: 436}
+  - name: Magic Trap Preview_Frame_81
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 460
+      y: 436
+      width: 144
+      height: 64
+    spriteID: 9031e5a5a1cea654d9ce6901fb0d03f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 460, y: 436}
+  - name: Magic Trap Preview_Frame_82
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 612
+      y: 436
+      width: 144
+      height: 64
+    spriteID: fff467952f8e5b54ea63acab8d5aedc9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 612, y: 436}
+  - name: Magic Trap Preview_Frame_83
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 764
+      y: 436
+      width: 144
+      height: 64
+    spriteID: f120270d6a8956f488aadea2848aeb5f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 764, y: 436}
+  - name: Magic Trap Preview_Frame_84
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 916
+      y: 436
+      width: 144
+      height: 64
+    spriteID: 07d92c17e80dea249b0c9f4c27c61215
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 916, y: 436}
+  - name: Magic Trap Preview_Frame_85
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1068
+      y: 436
+      width: 144
+      height: 64
+    spriteID: efa51fa0504818346b4524c0e2601bbc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1068, y: 436}
+  - name: Magic Trap Preview_Frame_86
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1220
+      y: 436
+      width: 144
+      height: 64
+    spriteID: d5a7099ed002019439313b72e4b2fd62
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1220, y: 436}
+  - name: Magic Trap Preview_Frame_87
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1372
+      y: 436
+      width: 144
+      height: 64
+    spriteID: 6c06c52214135414ebf23858fbb837ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1372, y: 436}
+  - name: Magic Trap Preview_Frame_88
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1524
+      y: 436
+      width: 144
+      height: 64
+    spriteID: b6a19aa0cdd43cd4bae2c52c3e5eaac0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1524, y: 436}
+  - name: Magic Trap Preview_Frame_89
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1676
+      y: 436
+      width: 144
+      height: 64
+    spriteID: b0cb8cea09b59414aadd872d70f624a5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1676, y: 436}
+  - name: Magic Trap Preview_Frame_90
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1828
+      y: 436
+      width: 144
+      height: 64
+    spriteID: c1f33f1d034c952468ef1936d036729b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1828, y: 436}
+  - name: Magic Trap Preview_Frame_91
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 508
+      width: 144
+      height: 64
+    spriteID: 24560abb67125db4da19580d73a2b067
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 508}
+  - name: Magic Trap Preview_Frame_92
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 156
+      y: 508
+      width: 144
+      height: 64
+    spriteID: fd6469e772de45d4fa30414088e2b636
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 156, y: 508}
+  - name: Magic Trap Preview_Frame_93
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 308
+      y: 508
+      width: 144
+      height: 64
+    spriteID: 3a670fcd82c921d4aa48f80432e241de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 308, y: 508}
+  - name: Magic Trap Preview_Frame_94
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 460
+      y: 508
+      width: 144
+      height: 64
+    spriteID: 2c829949458e9314285bfa3e3fd71592
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 460, y: 508}
+  - name: Magic Trap Preview_Frame_95
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 612
+      y: 508
+      width: 144
+      height: 64
+    spriteID: a1bcf3a600fea424091ffa1ce7127c98
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 612, y: 508}
+  - name: Magic Trap Preview_Frame_96
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 764
+      y: 508
+      width: 144
+      height: 64
+    spriteID: 97ffca6259fa061408cd013d4ed6cdbc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 764, y: 508}
+  - name: Magic Trap Preview_Frame_97
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 916
+      y: 508
+      width: 144
+      height: 64
+    spriteID: 75c4b46d8601805428085fea2e26042e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 916, y: 508}
+  - name: Magic Trap Preview_Frame_98
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1068
+      y: 508
+      width: 144
+      height: 64
+    spriteID: 77e9ed48f83d85542b87c323cb498706
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1068, y: 508}
+  - name: Magic Trap Preview_Frame_99
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1220
+      y: 508
+      width: 144
+      height: 64
+    spriteID: 62b1617bb8e0ac843afb232fb223fc83
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1220, y: 508}
+  - name: Magic Trap Preview_Frame_100
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1372
+      y: 508
+      width: 144
+      height: 64
+    spriteID: fd9ee3d8476760344ad3c25f8605b2d8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1372, y: 508}
+  - name: Magic Trap Preview_Frame_101
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1524
+      y: 508
+      width: 144
+      height: 64
+    spriteID: f4b31441c311b26448a3d5f24d13d9a5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1524, y: 508}
+  - name: Magic Trap Preview_Frame_102
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1676
+      y: 508
+      width: 144
+      height: 64
+    spriteID: c6c7ed43d0712c34888ab53defff1146
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1676, y: 508}
+  - name: Magic Trap Preview_Frame_103
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1828
+      y: 508
+      width: 144
+      height: 64
+    spriteID: da91ffda66e11bd4da495dbeef180fc8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1828, y: 508}
+  - name: Magic Trap Preview_Frame_104
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 580
+      width: 144
+      height: 64
+    spriteID: 4a592763e842cdd4bbe1a3dbb96af328
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 580}
+  - name: Magic Trap Preview_Frame_105
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 156
+      y: 580
+      width: 144
+      height: 64
+    spriteID: b1f3dbcf9da55ca44ba76c5818826a76
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 156, y: 580}
+  - name: Magic Trap Preview_Frame_106
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 308
+      y: 580
+      width: 144
+      height: 64
+    spriteID: 4449a34248fd5864bbda4d98ff2d4cef
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 308, y: 580}
+  - name: Magic Trap Preview_Frame_107
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 460
+      y: 580
+      width: 144
+      height: 64
+    spriteID: b581911e73119d0449b95ff093b80aa4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 460, y: 580}
+  - name: Magic Trap Preview_Frame_108
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 612
+      y: 580
+      width: 144
+      height: 64
+    spriteID: cfb070a4003fcbe4d911d2949fe20959
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 612, y: 580}
+  - name: Magic Trap Preview_Frame_109
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 764
+      y: 580
+      width: 144
+      height: 64
+    spriteID: 67329b48b5fd0ec4ba6c241a1b1d2fde
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 764, y: 580}
+  - name: Magic Trap Preview_Frame_110
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 916
+      y: 580
+      width: 144
+      height: 64
+    spriteID: 14444b1decaa3cb409df68ef082c70bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 916, y: 580}
+  - name: Magic Trap Preview_Frame_111
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1068
+      y: 580
+      width: 144
+      height: 64
+    spriteID: 38d56175b24476444b0e9579737ca600
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1068, y: 580}
+  - name: Magic Trap Preview_Frame_112
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1220
+      y: 580
+      width: 144
+      height: 64
+    spriteID: ec3fcfaabf7fe06479836a0fdf2a9879
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1220, y: 580}
+  - name: Magic Trap Preview_Frame_113
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1372
+      y: 580
+      width: 144
+      height: 64
+    spriteID: 5950ed6c5ba59b047ae668adaacdd8a8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1372, y: 580}
+  - name: Magic Trap Preview_Frame_114
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1524
+      y: 580
+      width: 144
+      height: 64
+    spriteID: c7ff18e52b293214db27a87d28471bc9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1524, y: 580}
+  - name: Magic Trap Preview_Frame_115
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1676
+      y: 580
+      width: 144
+      height: 64
+    spriteID: 051a17d2ec39dfa4c8aaca7346710343
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1676, y: 580}
+  - name: Magic Trap Preview_Frame_116
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1828
+      y: 580
+      width: 144
+      height: 64
+    spriteID: 0e502f29c8aeb7340ac0bad8c3e8bb9b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1828, y: 580}
+  - name: Magic Trap Preview_Frame_117
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 652
+      width: 144
+      height: 64
+    spriteID: cdbe14f5b12bd0a40abe76b8f190d8eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 652}
+  - name: Magic Trap Preview_Frame_118
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 156
+      y: 652
+      width: 144
+      height: 64
+    spriteID: 08c6f956cc8cc5a42b182e78c91817f4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 156, y: 652}
+  - name: Magic Trap Preview_Frame_119
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 308
+      y: 652
+      width: 144
+      height: 64
+    spriteID: 8a9a468ad6198ae48b07fe1d26ec3d03
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 308, y: 652}
+  - name: Magic Trap Preview_Frame_120
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 460
+      y: 652
+      width: 144
+      height: 64
+    spriteID: d5e883ef1218cc640b75dbe3303c9fed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 460, y: 652}
+  - name: Magic Trap Preview_Frame_121
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 612
+      y: 652
+      width: 144
+      height: 64
+    spriteID: 9b7919ea1dc20864295f5d50a0f81077
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 612, y: 652}
+  - name: Magic Trap Preview_Frame_122
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 764
+      y: 652
+      width: 144
+      height: 64
+    spriteID: 433670b3aa9e01c4c999018897a99766
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 764, y: 652}
+  - name: Magic Trap Preview_Frame_123
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 916
+      y: 652
+      width: 144
+      height: 64
+    spriteID: 3f97819141086564693e72e9a8f348c8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 916, y: 652}
+  - name: Magic Trap Preview_Frame_124
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1068
+      y: 652
+      width: 144
+      height: 64
+    spriteID: cc66015debc1f08478afe6a58a59f5d7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1068, y: 652}
+  - name: Magic Trap Preview_Frame_125
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1220
+      y: 652
+      width: 144
+      height: 64
+    spriteID: acdbe0f4acba5d34cb41741fef70ef41
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1220, y: 652}
+  - name: Magic Trap Preview_Frame_126
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1372
+      y: 652
+      width: 144
+      height: 64
+    spriteID: a10a17076cfa62e43b0a5515ab66212b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1372, y: 652}
+  - name: Magic Trap Preview_Frame_127
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1524
+      y: 652
+      width: 144
+      height: 64
+    spriteID: 91d0415c343fbbf4cb667253629eb6bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1524, y: 652}
+  - name: Magic Trap Preview_Frame_128
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1676
+      y: 652
+      width: 144
+      height: 64
+    spriteID: c7588245072b3f940a8d6bdfa25c0d2b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1676, y: 652}
+  - name: Magic Trap Preview_Frame_129
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1828
+      y: 652
+      width: 144
+      height: 64
+    spriteID: 1ad02c7e75afa6f47863b6d4dcb5a8d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1828, y: 652}
+  - name: Magic Trap Preview_Frame_130
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 724
+      width: 144
+      height: 64
+    spriteID: 2bdaa57fe31ea4a41946bc80e1d27548
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 724}
+  - name: Magic Trap Preview_Frame_131
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 156
+      y: 724
+      width: 144
+      height: 64
+    spriteID: 9df46e6bc8363844494b073bb2c2198a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 156, y: 724}
+  - name: Magic Trap Preview_Frame_132
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 308
+      y: 724
+      width: 144
+      height: 64
+    spriteID: 6f4d588358bb35641ac51e6365fa9151
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 308, y: 724}
+  - name: Magic Trap Preview_Frame_133
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 460
+      y: 724
+      width: 144
+      height: 64
+    spriteID: 07d6c66edd22ffb4ca2a79675ec581f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 460, y: 724}
+  - name: Magic Trap Preview_Frame_134
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 612
+      y: 724
+      width: 144
+      height: 64
+    spriteID: a38de796a77e0aa498f76c110673314f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 612, y: 724}
+  - name: Magic Trap Preview_Frame_135
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 764
+      y: 724
+      width: 144
+      height: 64
+    spriteID: 22db6ab88663239408e57a14cd5df22c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 764, y: 724}
+  - name: Magic Trap Preview_Frame_136
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 916
+      y: 724
+      width: 144
+      height: 64
+    spriteID: 2eb6e0565a087e245946edbf179af132
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 916, y: 724}
+  - name: Magic Trap Preview_Frame_137
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1068
+      y: 724
+      width: 144
+      height: 64
+    spriteID: 1fe31d3cb9193af43aaf4226fcc19231
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1068, y: 724}
+  - name: Magic Trap Preview_Frame_138
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1220
+      y: 724
+      width: 144
+      height: 64
+    spriteID: e14701f545356e24bb8e8c92ab8734fe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1220, y: 724}
+  - name: Magic Trap Preview_Frame_139
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1372
+      y: 724
+      width: 144
+      height: 64
+    spriteID: 3297805d4f2a69d4f83aaef2854c1631
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1372, y: 724}
+  - name: Magic Trap Preview_Frame_140
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1524
+      y: 724
+      width: 144
+      height: 64
+    spriteID: b58fe8877bfe44f42a497dcaec4158a2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1524, y: 724}
+  - name: Magic Trap Preview_Frame_141
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1676
+      y: 724
+      width: 144
+      height: 64
+    spriteID: 3c9578e361eff58439cf1635bdd36e1e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1676, y: 724}
+  - name: Magic Trap Preview_Frame_142
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1828
+      y: 724
+      width: 144
+      height: 64
+    spriteID: 163ec845a256a5e4c9a37284b9f14c4d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1828, y: 724}
+  - name: Magic Trap Preview_Frame_143
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 796
+      width: 144
+      height: 64
+    spriteID: 3d3a600b78dfb1e45b084a2c95df7ae2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 796}
+  - name: Magic Trap Preview_Frame_144
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 156
+      y: 796
+      width: 144
+      height: 64
+    spriteID: d93f536be2c8ea44abcf2928d35bf999
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 156, y: 796}
+  - name: Magic Trap Preview_Frame_145
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 308
+      y: 796
+      width: 144
+      height: 64
+    spriteID: cde5232995bd0084dbc143fb39ec5a2e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 308, y: 796}
+  - name: Magic Trap Preview_Frame_146
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 460
+      y: 796
+      width: 144
+      height: 64
+    spriteID: 72c6040ce610e774db937664f97bbda2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 460, y: 796}
+  - name: Magic Trap Preview_Frame_147
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 612
+      y: 796
+      width: 144
+      height: 64
+    spriteID: 2d632b9e19c7fd7448f4b45c1298d7e5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 612, y: 796}
+  - name: Magic Trap Preview_Frame_148
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 764
+      y: 796
+      width: 144
+      height: 64
+    spriteID: b36a0582f394a0f40b5fd848a2a22866
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 764, y: 796}
+  - name: Magic Trap Preview_Frame_149
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 916
+      y: 796
+      width: 144
+      height: 64
+    spriteID: cda55123fc7f4a840b0795e2bb222b74
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 916, y: 796}
+  - name: Magic Trap Preview_Frame_150
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1068
+      y: 796
+      width: 144
+      height: 64
+    spriteID: 788e6fee3a42ccb48a5fdfb29141d82c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1068, y: 796}
+  - name: Magic Trap Preview_Frame_151
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1220
+      y: 796
+      width: 144
+      height: 64
+    spriteID: 9777529842d355641a727df4c9115d13
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1220, y: 796}
+  - name: Magic Trap Preview_Frame_152
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1372
+      y: 796
+      width: 144
+      height: 64
+    spriteID: 62f77bbaabc29b24abd9e96735f97186
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1372, y: 796}
+  - name: Magic Trap Preview_Frame_153
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1524
+      y: 796
+      width: 144
+      height: 64
+    spriteID: fc6c817465d71db4394f9a81dec0a07f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1524, y: 796}
+  - name: Magic Trap Preview_Frame_154
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1676
+      y: 796
+      width: 144
+      height: 64
+    spriteID: 5c392ba68219c4743865a5274bcbc9a8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1676, y: 796}
+  - name: Magic Trap Preview_Frame_155
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1828
+      y: 796
+      width: 144
+      height: 64
+    spriteID: ddecdfb1fe51c2b4c9bcf25e08ded9f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1828, y: 796}
+  - name: Magic Trap Preview_Frame_156
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 868
+      width: 144
+      height: 64
+    spriteID: 48553dd5fcf3e3143bbeed888957bbf1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 868}
+  - name: Magic Trap Preview_Frame_157
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 156
+      y: 868
+      width: 144
+      height: 64
+    spriteID: fbdce1b9732f36a48947b4da581048a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 156, y: 868}
+  - name: Magic Trap Preview_Frame_158
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 308
+      y: 868
+      width: 144
+      height: 64
+    spriteID: 7be916c528f9b92498d0825a98562cd7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 308, y: 868}
+  - name: Magic Trap Preview_Frame_159
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 460
+      y: 868
+      width: 144
+      height: 64
+    spriteID: 92e7499876d5d13429afaea9407ae08a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 460, y: 868}
+  - name: Magic Trap Preview_Frame_160
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 612
+      y: 868
+      width: 144
+      height: 64
+    spriteID: 14f8bcae1129b9644b6f9bd0c9fda367
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 612, y: 868}
+  - name: Magic Trap Preview_Frame_161
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 764
+      y: 868
+      width: 144
+      height: 64
+    spriteID: d737727f56e570943b4cd744ca7540d3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 764, y: 868}
+  - name: Magic Trap Preview_Frame_162
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 916
+      y: 868
+      width: 144
+      height: 64
+    spriteID: ad3be24e68c6849489ffdd1562064fb6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 916, y: 868}
+  - name: Magic Trap Preview_Frame_163
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1068
+      y: 868
+      width: 144
+      height: 64
+    spriteID: fa6ec63b430e73d4db61f8696407bb04
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1068, y: 868}
+  - name: Magic Trap Preview_Frame_164
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1220
+      y: 868
+      width: 144
+      height: 64
+    spriteID: 414845d80f244cf44a8544120daa0795
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1220, y: 868}
+  - name: Magic Trap Preview_Frame_165
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1372
+      y: 868
+      width: 144
+      height: 64
+    spriteID: 22cfe5999267a454cb389c6e8b083488
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1372, y: 868}
+  - name: Magic Trap Preview_Frame_166
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1524
+      y: 868
+      width: 144
+      height: 64
+    spriteID: 3a6a055bd63b0034aa5b01ee648f1ed8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1524, y: 868}
+  - name: Magic Trap Preview_Frame_167
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1676
+      y: 868
+      width: 144
+      height: 64
+    spriteID: 8ea212bfedb60bc43a01160c7bf7f982
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1676, y: 868}
+  - name: Magic Trap Preview_Frame_168
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1828
+      y: 868
+      width: 144
+      height: 64
+    spriteID: 182de53c20846df41a8651ceace26c19
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1828, y: 868}
+  - name: Magic Trap Preview_Frame_169
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 940
+      width: 144
+      height: 64
+    spriteID: 61884e6964ce4044d9e00e88fc114018
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 940}
+  - name: Magic Trap Preview_Frame_170
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 156
+      y: 940
+      width: 144
+      height: 64
+    spriteID: ec576f18945fae141b26126e67a2bb2f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 156, y: 940}
+  - name: Magic Trap Preview_Frame_171
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 308
+      y: 940
+      width: 144
+      height: 64
+    spriteID: 9d5f8267eaed8494b8c818dae8be4a81
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 308, y: 940}
+  - name: Magic Trap Preview_Frame_172
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 460
+      y: 940
+      width: 144
+      height: 64
+    spriteID: 7571741f72aa884429abb32dff2e11de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 460, y: 940}
+  - name: Magic Trap Preview_Frame_173
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 612
+      y: 940
+      width: 144
+      height: 64
+    spriteID: 8803e6a0697c94240bb905999e64153c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 612, y: 940}
+  - name: Magic Trap Preview_Frame_174
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 764
+      y: 940
+      width: 144
+      height: 64
+    spriteID: 1231400139b64be4fa76463434d1f8f2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 764, y: 940}
+  - name: Magic Trap Preview_Frame_175
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 916
+      y: 940
+      width: 144
+      height: 64
+    spriteID: 4385c2c1dc822514790462211130cd5a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 916, y: 940}
+  - name: Magic Trap Preview_Frame_176
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1068
+      y: 940
+      width: 144
+      height: 64
+    spriteID: 5978e55e266c0b840a3d0b484067c0c0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1068, y: 940}
+  - name: Magic Trap Preview_Frame_177
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1220
+      y: 940
+      width: 144
+      height: 64
+    spriteID: 5839f34ebf29f3646b59482968088740
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1220, y: 940}
+  - name: Magic Trap Preview_Frame_178
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1372
+      y: 940
+      width: 144
+      height: 64
+    spriteID: 45fed61f44ee79a42b9330fa2a4e0ef1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1372, y: 940}
+  - name: Magic Trap Preview_Frame_179
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1524
+      y: 940
+      width: 144
+      height: 64
+    spriteID: 5780338726a5056498d2578a404c1ec4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1524, y: 940}
+  - name: Magic Trap Preview_Frame_180
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1676
+      y: 940
+      width: 144
+      height: 64
+    spriteID: 7c6b74acb0b440c4fbba9c36635c030b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1676, y: 940}
+  - name: Magic Trap Preview_Frame_181
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1828
+      y: 940
+      width: 144
+      height: 64
+    spriteID: eb7c2f7761ef1c54ab109106473e82b6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1828, y: 940}
+  - name: Magic Trap Preview_Frame_182
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1012
+      width: 144
+      height: 64
+    spriteID: 7b4b9101b619a3440995e16095c735d3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1012}
+  - name: Magic Trap Preview_Frame_183
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 156
+      y: 1012
+      width: 144
+      height: 64
+    spriteID: b94516f74442f5a46abd9c24bfdf4a8c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 156, y: 1012}
+  - name: Magic Trap Preview_Frame_184
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 308
+      y: 1012
+      width: 144
+      height: 64
+    spriteID: fe5b92aefb8953440a321b2627bd46de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 308, y: 1012}
+  - name: Magic Trap Preview_Frame_185
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 460
+      y: 1012
+      width: 144
+      height: 64
+    spriteID: 468800295d4a9944eaa90d54ee5b3090
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 460, y: 1012}
+  - name: Magic Trap Preview_Frame_186
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 612
+      y: 1012
+      width: 144
+      height: 64
+    spriteID: edffdaad435991048a4f16b56d7d2e0f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 612, y: 1012}
+  - name: Magic Trap Preview_Frame_187
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 764
+      y: 1012
+      width: 144
+      height: 64
+    spriteID: fc625e79acae59d45b764e4c44510fae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 764, y: 1012}
+  - name: Magic Trap Preview_Frame_188
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 916
+      y: 1012
+      width: 144
+      height: 64
+    spriteID: 15e21f1a362f2ee45939cab67dd9d708
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 916, y: 1012}
+  - name: Magic Trap Preview_Frame_189
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1068
+      y: 1012
+      width: 144
+      height: 64
+    spriteID: b8f28cb5d81f38343804889f7ace96e7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1068, y: 1012}
+  - name: Magic Trap Preview_Frame_190
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1220
+      y: 1012
+      width: 144
+      height: 64
+    spriteID: 15841ac18d9bb4844910313ce98e19e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1220, y: 1012}
+  - name: Magic Trap Preview_Frame_191
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1372
+      y: 1012
+      width: 144
+      height: 64
+    spriteID: ccf9afc3c8599d6499ab9fc9cd6dc8e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1372, y: 1012}
+  - name: Magic Trap Preview_Frame_192
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1524
+      y: 1012
+      width: 144
+      height: 64
+    spriteID: a207fb0aab1a80d4082d37824c259b02
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1524, y: 1012}
+  - name: Magic Trap Preview_Frame_193
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1676
+      y: 1012
+      width: 144
+      height: 64
+    spriteID: 1ee3cea3514b58b4e879e6d83d48b42c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1676, y: 1012}
+  - name: Magic Trap Preview_Frame_194
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1828
+      y: 1012
+      width: 144
+      height: 64
+    spriteID: a2c9e474f81297e48a04685bea9e4dc6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1828, y: 1012}
+  - name: Magic Trap Preview_Frame_195
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1084
+      width: 144
+      height: 64
+    spriteID: 188fa960ab66adf4fabba278e8064ed8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1084}
+  - name: Magic Trap Preview_Frame_196
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 156
+      y: 1084
+      width: 144
+      height: 64
+    spriteID: 31c2d6d462fcb6e4ca8fbae9d99a560a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 156, y: 1084}
+  - name: Magic Trap Preview_Frame_197
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 308
+      y: 1084
+      width: 144
+      height: 64
+    spriteID: c1ad5a1adbc40514b902b81386facfcd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 308, y: 1084}
+  - name: Magic Trap Preview_Frame_198
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 460
+      y: 1084
+      width: 144
+      height: 64
+    spriteID: 2130fafe90633b94885eeb65f3e6c76e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 460, y: 1084}
+  - name: Magic Trap Preview_Frame_199
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 612
+      y: 1084
+      width: 144
+      height: 64
+    spriteID: b6ebbbef5ccce9a44874c0dd9634b0eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 612, y: 1084}
+  - name: Magic Trap Preview_Frame_200
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 764
+      y: 1084
+      width: 144
+      height: 64
+    spriteID: 835a9e8e22ef1ba4db1500a75776fb46
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 764, y: 1084}
+  - name: Magic Trap Preview_Frame_201
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 916
+      y: 1084
+      width: 144
+      height: 64
+    spriteID: 87e3e8d1d69e14f498a7de2b44dc9ec4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 916, y: 1084}
+  - name: Magic Trap Preview_Frame_202
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1068
+      y: 1084
+      width: 144
+      height: 64
+    spriteID: 27807972eafd76c44b8ee877b539191a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1068, y: 1084}
+  - name: Magic Trap Preview_Frame_203
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1220
+      y: 1084
+      width: 144
+      height: 64
+    spriteID: b72e959b828df0247a08fa3dd7b1e6ea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1220, y: 1084}
+  - name: Magic Trap Preview_Frame_204
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1372
+      y: 1084
+      width: 144
+      height: 64
+    spriteID: abfdd16693f5f054191cab2699912b46
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1372, y: 1084}
+  - name: Magic Trap Preview_Frame_205
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1524
+      y: 1084
+      width: 144
+      height: 64
+    spriteID: d05c7a2747495264cbd0b0e15fc77bc0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1524, y: 1084}
+  - name: Magic Trap Preview_Frame_206
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1676
+      y: 1084
+      width: 144
+      height: 64
+    spriteID: a528a0628bfe03b438af2c7a50b7b70d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1676, y: 1084}
+  - name: Magic Trap Preview_Frame_207
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1828
+      y: 1084
+      width: 144
+      height: 64
+    spriteID: 309e6170fc839464099655e89af63668
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1828, y: 1084}
+  - name: Magic Trap Preview_Frame_208
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1156
+      width: 144
+      height: 64
+    spriteID: ce24e101273cb5c429b6f51f82b218aa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1156}
+  - name: Magic Trap Preview_Frame_209
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 156
+      y: 1156
+      width: 144
+      height: 64
+    spriteID: 8f5c75be5548e0f4f81677758ed53431
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 156, y: 1156}
+  - name: Magic Trap Preview_Frame_210
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 308
+      y: 1156
+      width: 144
+      height: 64
+    spriteID: 0966df9dbc937134a9f0d86482bcc71f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 308, y: 1156}
+  - name: Magic Trap Preview_Frame_211
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 460
+      y: 1156
+      width: 144
+      height: 64
+    spriteID: 5b4d6424ab97c04458a0bcb4a921f3d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 460, y: 1156}
+  - name: Magic Trap Preview_Frame_212
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 612
+      y: 1156
+      width: 144
+      height: 64
+    spriteID: 5a0c49bb9d68bf64c888bdbc7a35c4c4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 612, y: 1156}
+  - name: Magic Trap Preview_Frame_213
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 764
+      y: 1156
+      width: 144
+      height: 64
+    spriteID: c1934de7742f7524f81a2fba92fc8ea6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 764, y: 1156}
+  - name: Magic Trap Preview_Frame_214
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 916
+      y: 1156
+      width: 144
+      height: 64
+    spriteID: 1e9b74f628304ff48a143743abfe74d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 916, y: 1156}
+  - name: Magic Trap Preview_Frame_215
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1068
+      y: 1156
+      width: 144
+      height: 64
+    spriteID: 1d58ac51f42c0574c9a0270037d7fe4c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1068, y: 1156}
+  - name: Magic Trap Preview_Frame_216
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1220
+      y: 1156
+      width: 144
+      height: 64
+    spriteID: 582f2556cf8391c4f88792cda3bde3f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1220, y: 1156}
+  - name: Magic Trap Preview_Frame_217
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1372
+      y: 1156
+      width: 144
+      height: 64
+    spriteID: 9f01c0712addfac4c9edd752d6ae9708
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1372, y: 1156}
+  - name: Magic Trap Preview_Frame_218
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1524
+      y: 1156
+      width: 144
+      height: 64
+    spriteID: 75ed959c1ecca8b48942d85b7befcf4b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1524, y: 1156}
+  - name: Magic Trap Preview_Frame_219
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1676
+      y: 1156
+      width: 144
+      height: 64
+    spriteID: 0b919805f008c7548a47ba0c33735152
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1676, y: 1156}
+  - name: Magic Trap Preview_Frame_220
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1828
+      y: 1156
+      width: 144
+      height: 64
+    spriteID: 50985dcc4eae5b048bd32832725edf54
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1828, y: 1156}
+  - name: Magic Trap Preview_Frame_221
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1228
+      width: 144
+      height: 64
+    spriteID: 0a0cf7a7ab5582d49846e4a597afd55f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1228}
+  - name: Magic Trap Preview_Frame_222
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 156
+      y: 1228
+      width: 144
+      height: 64
+    spriteID: f88117e1112fecd4c9d2fe892f4f2a3c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 156, y: 1228}
+  - name: Magic Trap Preview_Frame_223
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 308
+      y: 1228
+      width: 144
+      height: 64
+    spriteID: cf4747b4cde893c42a6f23cae3193397
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 308, y: 1228}
+  - name: Magic Trap Preview_Frame_224
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 460
+      y: 1228
+      width: 144
+      height: 64
+    spriteID: 4950081a12e8dbf428ba52e5ab192bb8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 460, y: 1228}
+  - name: Magic Trap Preview_Frame_225
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 612
+      y: 1228
+      width: 144
+      height: 64
+    spriteID: 261a333b3a3c01b4db60109f54c79b4a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 612, y: 1228}
+  - name: Magic Trap Preview_Frame_226
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 764
+      y: 1228
+      width: 144
+      height: 64
+    spriteID: 4f9e1cd5b95fb994998062cdf5bc0a12
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 764, y: 1228}
+  - name: Magic Trap Preview_Frame_227
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 916
+      y: 1228
+      width: 144
+      height: 64
+    spriteID: 2d73814b8d786d94a89983de94395583
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 916, y: 1228}
+  - name: Magic Trap Preview_Frame_228
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1068
+      y: 1228
+      width: 144
+      height: 64
+    spriteID: f611cba7e0f4a8249990bd95c6ea29be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1068, y: 1228}
+  - name: Magic Trap Preview_Frame_229
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1220
+      y: 1228
+      width: 144
+      height: 64
+    spriteID: 24eb80438ef2e4f40b6c1e91ea2afc4c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1220, y: 1228}
+  - name: Magic Trap Preview_Frame_230
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1372
+      y: 1228
+      width: 144
+      height: 64
+    spriteID: 5000553436a086b4f8455492bba70f0c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1372, y: 1228}
+  - name: Magic Trap Preview_Frame_231
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1524
+      y: 1228
+      width: 144
+      height: 64
+    spriteID: 890226efc0e4b5141aee9457166f1aaa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1524, y: 1228}
+  - name: Magic Trap Preview_Frame_232
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1676
+      y: 1228
+      width: 144
+      height: 64
+    spriteID: e59af28a65a63774aadc4713c3e569ea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1676, y: 1228}
+  - name: Magic Trap Preview_Frame_233
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 1828
+      y: 1228
+      width: 144
+      height: 64
+    spriteID: 0c2d61147c7c3c94892db1848641188e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 1828, y: 1228}
+  - name: Magic Trap Preview_Frame_234
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1300
+      width: 144
+      height: 64
+    spriteID: d86702592d4a4644dbd712376ac32c61
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1300}
+  - name: Magic Trap Preview_Frame_235
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 156
+      y: 1300
+      width: 144
+      height: 64
+    spriteID: 4760c7a96ebf56643ba569e025fdfd18
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 156, y: 1300}
+  - name: Magic Trap Preview_Frame_236
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 308
+      y: 1300
+      width: 144
+      height: 64
+    spriteID: 976637410126b1749823d658b313d4ad
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 308, y: 1300}
+  - name: Magic Trap Preview_Frame_237
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 460
+      y: 1300
+      width: 144
+      height: 64
+    spriteID: 0bf3fe614dbe8fa418440d057a2f2acc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 460, y: 1300}
+  - name: Magic Trap Preview_Frame_238
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 612
+      y: 1300
+      width: 144
+      height: 64
+    spriteID: 144ceef9432c0584ba770a7d29da4a75
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 612, y: 1300}
+  - name: Magic Trap Preview_Frame_239
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 764
+      y: 1300
+      width: 144
+      height: 64
+    spriteID: 0bf9c6a154492f44f911eb70126197c5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 764, y: 1300}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -2133335300
+    name: Magic Trap Preview
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Magic Trap Preview_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: e1f320d080a8e9c45a6e9521ac4a2c34
+    - name: Magic Trap Preview_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 26a5468a365499841b6803bcf8c58746
+    - name: Magic Trap Preview_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 441cb9fdd5809704b913b8aa56b7f91d
+    - name: Magic Trap Preview_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 1ab54f7e025e8ee4886b81f76eaa62ca
+    - name: Magic Trap Preview_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: b509a2ca2964aaf4fb6826118e2fed7c
+    - name: Magic Trap Preview_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 01c678f7e6362ce4089426dcd4eae1fa
+    - name: Magic Trap Preview_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 7800a6bf708c7164c8cc4b55a32727fe
+    - name: Magic Trap Preview_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 3a9bcc6728f727d44b6a8d39f1f51359
+    - name: Magic Trap Preview_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 4200f917a8adaf849b260aae0a8ef94d
+    - name: Magic Trap Preview_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 920d1567d02259343bba176a74d2bd26
+    - name: Magic Trap Preview_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: dcf231642a1825840a9efd860538a4a6
+    - name: Magic Trap Preview_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 44fa78f4ed6456e4697f9e5682d1d2a2
+    - name: Magic Trap Preview_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 894b1fb9ff180fe4a89188c57361d360
+    - name: Magic Trap Preview_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 0c0df0bb075541e42b1fa40d4a2a8346
+    - name: Magic Trap Preview_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: d9f1c013e3f80ee478d2edb19ebe9163
+    - name: Magic Trap Preview_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 671d72a781520c64897f0cf80e08bcf1
+    - name: Magic Trap Preview_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 9b64b3e04df60fc408e69ff71dcdf0e1
+    - name: Magic Trap Preview_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 947d908b662d2f64589cdde2c28b4139
+    - name: Magic Trap Preview_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: dfac27483dfdf73419994d50f56796c1
+    - name: Magic Trap Preview_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 48048acf143b85a4b993c6e99cd493dd
+    - name: Magic Trap Preview_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: eac605778e06e94419552526a56fa0f7
+    - name: Magic Trap Preview_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: dd1d36356d30ac84788912db5fedc461
+    - name: Magic Trap Preview_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 560a4f16cfd6bfa45a52b98e10e7e991
+    - name: Magic Trap Preview_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 0fd17f2af7dbbc949b08556aeaa141c2
+    - name: Magic Trap Preview_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 8ade6fad4e535aa4a9d45a0547f880c7
+    - name: Magic Trap Preview_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 05f903e394801a24f84d8952e0c034f1
+    - name: Magic Trap Preview_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: fe11c7ddf3591f1408fe635b16821989
+    - name: Magic Trap Preview_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 59437f9ebe47a524881c7a16781f4b90
+    - name: Magic Trap Preview_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: e8dba1d3d9f81634aa51a7dd1839ff99
+    - name: Magic Trap Preview_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 3d5cccdd1e6f0064bb1690483bce0452
+    - name: Magic Trap Preview_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: fc9eeb38c5c23354cadb540be9510192
+    - name: Magic Trap Preview_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 41b9ff8c34e0f8c4fa533864116ae891
+    - name: Magic Trap Preview_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 6e68a0a43bb3447419a5a06197b5a24a
+    - name: Magic Trap Preview_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 5a679615365532443bf07c99e74e5431
+    - name: Magic Trap Preview_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: ec7048ca7acdf1347bf7ea3534c7cbb8
+    - name: Magic Trap Preview_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 3b461702d737ba7449b6dddbc6adee80
+    - name: Magic Trap Preview_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 1f0a31e5e266d714d95e77f4c0a96ebd
+    - name: Magic Trap Preview_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 689a9c24768d22143ba3a3c69c0fe4f2
+    - name: Magic Trap Preview_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: c2abff51947397e47a20b5b1b58f2c73
+    - name: Magic Trap Preview_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: a22c2d86cf7e8fa4ab4491d9b90de494
+    - name: Magic Trap Preview_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: afba36db647b0d549962d75464a1e285
+    - name: Magic Trap Preview_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 1baea786f40d55c4f93920f1dfa2320d
+    - name: Magic Trap Preview_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: e953ebfe38946f74d9876b78396fee85
+    - name: Magic Trap Preview_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 6d48282ef7e11644f9056c463f74a68a
+    - name: Magic Trap Preview_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 9d01614a857babf48994af975da40bc8
+    - name: Magic Trap Preview_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 64b236eef7fda6f488738bbefa33b886
+    - name: Magic Trap Preview_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 037cbe48be6d2d14d81b669a3649c877
+    - name: Magic Trap Preview_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 7c3f372debe87764cbe2f2d152365d01
+    - name: Magic Trap Preview_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 2137ab3ee932dc740a4d7955401b8f5c
+    - name: Magic Trap Preview_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 525bda5dc6d6bba48bbc1b078f7a4770
+    - name: Magic Trap Preview_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: a9be33d1426a62142850e3e1d52f3eae
+    - name: Magic Trap Preview_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 8ebef0f1a24e4244db9b50a3f243178f
+    - name: Magic Trap Preview_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 48da39856b354024384dd480444e26b6
+    - name: Magic Trap Preview_Frame_53
+      frameIndex: 53
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: d517f89db1068c84da777c373482eea3
+    - name: Magic Trap Preview_Frame_54
+      frameIndex: 54
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: dd9324ed979308d4cafd48fd8d3f995a
+    - name: Magic Trap Preview_Frame_55
+      frameIndex: 55
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 37a374b07d566a74285582e5a3490977
+    - name: Magic Trap Preview_Frame_56
+      frameIndex: 56
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 5e6d5458681041f47ae6d404caf2087e
+    - name: Magic Trap Preview_Frame_57
+      frameIndex: 57
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 60d775c0f3b89a340a9a423883c55d96
+    - name: Magic Trap Preview_Frame_58
+      frameIndex: 58
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: a08bbe78c626e3f42a32a70eee64c53f
+    - name: Magic Trap Preview_Frame_59
+      frameIndex: 59
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: f5a21ea4da207324b87e1ae3a29ea21b
+    - name: Magic Trap Preview_Frame_60
+      frameIndex: 60
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 999dd432c1f06eb468e7d2d18fa2a565
+    - name: Magic Trap Preview_Frame_61
+      frameIndex: 61
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 689a542523add034dbbd943cf7e592c7
+    - name: Magic Trap Preview_Frame_62
+      frameIndex: 62
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 1253cf67c4096454b98bc2ebefc2fd50
+    - name: Magic Trap Preview_Frame_63
+      frameIndex: 63
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: c61896640a9b32040a9f0207de46a431
+    - name: Magic Trap Preview_Frame_64
+      frameIndex: 64
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 80f580c0b216948419443039e8f62ac9
+    - name: Magic Trap Preview_Frame_65
+      frameIndex: 65
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 13fd1df516799014da626f9c9b1d891f
+    - name: Magic Trap Preview_Frame_66
+      frameIndex: 66
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: a18951211f308b44b9d1a857a252574a
+    - name: Magic Trap Preview_Frame_67
+      frameIndex: 67
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 4da3121636a6cac4b8d6f979088f63a4
+    - name: Magic Trap Preview_Frame_68
+      frameIndex: 68
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 0e4f8ff4d342a8846ab75e927d495c10
+    - name: Magic Trap Preview_Frame_69
+      frameIndex: 69
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 44fc29aba6613364cb1f055be8267fbf
+    - name: Magic Trap Preview_Frame_70
+      frameIndex: 70
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 1c925caca39b08e4bbc6b3c2bee2d7af
+    - name: Magic Trap Preview_Frame_71
+      frameIndex: 71
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 8a0bd7f2c92af6e4a93c51bc97b1edf0
+    - name: Magic Trap Preview_Frame_72
+      frameIndex: 72
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 4cea2a69931cc714b88d40c5d1ad3b1a
+    - name: Magic Trap Preview_Frame_73
+      frameIndex: 73
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: d99a960e8fe71814b80735d7fafd7442
+    - name: Magic Trap Preview_Frame_74
+      frameIndex: 74
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 9134947cd9c481a4e92b381ccda05c03
+    - name: Magic Trap Preview_Frame_75
+      frameIndex: 75
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: c531d08bb54e0e14280be1d1d3725457
+    - name: Magic Trap Preview_Frame_76
+      frameIndex: 76
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: fd0d1c5a1fda6a446938dee604243ede
+    - name: Magic Trap Preview_Frame_77
+      frameIndex: 77
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: ae73ef1e6b2d68149af18cc02ad99e5a
+    - name: Magic Trap Preview_Frame_78
+      frameIndex: 78
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 920f5da0a33142846bedfc80638cb151
+    - name: Magic Trap Preview_Frame_79
+      frameIndex: 79
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 88046ecea832d8547ab88381d8cc6bb3
+    - name: Magic Trap Preview_Frame_80
+      frameIndex: 80
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 37b8e453d158bc54fbeb857ee5b912e6
+    - name: Magic Trap Preview_Frame_81
+      frameIndex: 81
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 9031e5a5a1cea654d9ce6901fb0d03f2
+    - name: Magic Trap Preview_Frame_82
+      frameIndex: 82
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: fff467952f8e5b54ea63acab8d5aedc9
+    - name: Magic Trap Preview_Frame_83
+      frameIndex: 83
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: f120270d6a8956f488aadea2848aeb5f
+    - name: Magic Trap Preview_Frame_84
+      frameIndex: 84
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 07d92c17e80dea249b0c9f4c27c61215
+    - name: Magic Trap Preview_Frame_85
+      frameIndex: 85
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: efa51fa0504818346b4524c0e2601bbc
+    - name: Magic Trap Preview_Frame_86
+      frameIndex: 86
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: d5a7099ed002019439313b72e4b2fd62
+    - name: Magic Trap Preview_Frame_87
+      frameIndex: 87
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 6c06c52214135414ebf23858fbb837ed
+    - name: Magic Trap Preview_Frame_88
+      frameIndex: 88
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: b6a19aa0cdd43cd4bae2c52c3e5eaac0
+    - name: Magic Trap Preview_Frame_89
+      frameIndex: 89
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: b0cb8cea09b59414aadd872d70f624a5
+    - name: Magic Trap Preview_Frame_90
+      frameIndex: 90
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: c1f33f1d034c952468ef1936d036729b
+    - name: Magic Trap Preview_Frame_91
+      frameIndex: 91
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 24560abb67125db4da19580d73a2b067
+    - name: Magic Trap Preview_Frame_92
+      frameIndex: 92
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: fd6469e772de45d4fa30414088e2b636
+    - name: Magic Trap Preview_Frame_93
+      frameIndex: 93
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 3a670fcd82c921d4aa48f80432e241de
+    - name: Magic Trap Preview_Frame_94
+      frameIndex: 94
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 2c829949458e9314285bfa3e3fd71592
+    - name: Magic Trap Preview_Frame_95
+      frameIndex: 95
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: a1bcf3a600fea424091ffa1ce7127c98
+    - name: Magic Trap Preview_Frame_96
+      frameIndex: 96
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 97ffca6259fa061408cd013d4ed6cdbc
+    - name: Magic Trap Preview_Frame_97
+      frameIndex: 97
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 75c4b46d8601805428085fea2e26042e
+    - name: Magic Trap Preview_Frame_98
+      frameIndex: 98
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 77e9ed48f83d85542b87c323cb498706
+    - name: Magic Trap Preview_Frame_99
+      frameIndex: 99
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 62b1617bb8e0ac843afb232fb223fc83
+    - name: Magic Trap Preview_Frame_100
+      frameIndex: 100
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: fd9ee3d8476760344ad3c25f8605b2d8
+    - name: Magic Trap Preview_Frame_101
+      frameIndex: 101
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: f4b31441c311b26448a3d5f24d13d9a5
+    - name: Magic Trap Preview_Frame_102
+      frameIndex: 102
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: c6c7ed43d0712c34888ab53defff1146
+    - name: Magic Trap Preview_Frame_103
+      frameIndex: 103
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: da91ffda66e11bd4da495dbeef180fc8
+    - name: Magic Trap Preview_Frame_104
+      frameIndex: 104
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 4a592763e842cdd4bbe1a3dbb96af328
+    - name: Magic Trap Preview_Frame_105
+      frameIndex: 105
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: b1f3dbcf9da55ca44ba76c5818826a76
+    - name: Magic Trap Preview_Frame_106
+      frameIndex: 106
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 4449a34248fd5864bbda4d98ff2d4cef
+    - name: Magic Trap Preview_Frame_107
+      frameIndex: 107
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: b581911e73119d0449b95ff093b80aa4
+    - name: Magic Trap Preview_Frame_108
+      frameIndex: 108
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: cfb070a4003fcbe4d911d2949fe20959
+    - name: Magic Trap Preview_Frame_109
+      frameIndex: 109
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 67329b48b5fd0ec4ba6c241a1b1d2fde
+    - name: Magic Trap Preview_Frame_110
+      frameIndex: 110
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 14444b1decaa3cb409df68ef082c70bc
+    - name: Magic Trap Preview_Frame_111
+      frameIndex: 111
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 38d56175b24476444b0e9579737ca600
+    - name: Magic Trap Preview_Frame_112
+      frameIndex: 112
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: ec3fcfaabf7fe06479836a0fdf2a9879
+    - name: Magic Trap Preview_Frame_113
+      frameIndex: 113
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 5950ed6c5ba59b047ae668adaacdd8a8
+    - name: Magic Trap Preview_Frame_114
+      frameIndex: 114
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: c7ff18e52b293214db27a87d28471bc9
+    - name: Magic Trap Preview_Frame_115
+      frameIndex: 115
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 051a17d2ec39dfa4c8aaca7346710343
+    - name: Magic Trap Preview_Frame_116
+      frameIndex: 116
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 0e502f29c8aeb7340ac0bad8c3e8bb9b
+    - name: Magic Trap Preview_Frame_117
+      frameIndex: 117
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: cdbe14f5b12bd0a40abe76b8f190d8eb
+    - name: Magic Trap Preview_Frame_118
+      frameIndex: 118
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 08c6f956cc8cc5a42b182e78c91817f4
+    - name: Magic Trap Preview_Frame_119
+      frameIndex: 119
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 8a9a468ad6198ae48b07fe1d26ec3d03
+    - name: Magic Trap Preview_Frame_120
+      frameIndex: 120
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: d5e883ef1218cc640b75dbe3303c9fed
+    - name: Magic Trap Preview_Frame_121
+      frameIndex: 121
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 9b7919ea1dc20864295f5d50a0f81077
+    - name: Magic Trap Preview_Frame_122
+      frameIndex: 122
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 433670b3aa9e01c4c999018897a99766
+    - name: Magic Trap Preview_Frame_123
+      frameIndex: 123
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 3f97819141086564693e72e9a8f348c8
+    - name: Magic Trap Preview_Frame_124
+      frameIndex: 124
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: cc66015debc1f08478afe6a58a59f5d7
+    - name: Magic Trap Preview_Frame_125
+      frameIndex: 125
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: acdbe0f4acba5d34cb41741fef70ef41
+    - name: Magic Trap Preview_Frame_126
+      frameIndex: 126
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: a10a17076cfa62e43b0a5515ab66212b
+    - name: Magic Trap Preview_Frame_127
+      frameIndex: 127
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 91d0415c343fbbf4cb667253629eb6bc
+    - name: Magic Trap Preview_Frame_128
+      frameIndex: 128
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: c7588245072b3f940a8d6bdfa25c0d2b
+    - name: Magic Trap Preview_Frame_129
+      frameIndex: 129
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 1ad02c7e75afa6f47863b6d4dcb5a8d9
+    - name: Magic Trap Preview_Frame_130
+      frameIndex: 130
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 2bdaa57fe31ea4a41946bc80e1d27548
+    - name: Magic Trap Preview_Frame_131
+      frameIndex: 131
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 9df46e6bc8363844494b073bb2c2198a
+    - name: Magic Trap Preview_Frame_132
+      frameIndex: 132
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 6f4d588358bb35641ac51e6365fa9151
+    - name: Magic Trap Preview_Frame_133
+      frameIndex: 133
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 07d6c66edd22ffb4ca2a79675ec581f6
+    - name: Magic Trap Preview_Frame_134
+      frameIndex: 134
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: a38de796a77e0aa498f76c110673314f
+    - name: Magic Trap Preview_Frame_135
+      frameIndex: 135
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 22db6ab88663239408e57a14cd5df22c
+    - name: Magic Trap Preview_Frame_136
+      frameIndex: 136
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 2eb6e0565a087e245946edbf179af132
+    - name: Magic Trap Preview_Frame_137
+      frameIndex: 137
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 1fe31d3cb9193af43aaf4226fcc19231
+    - name: Magic Trap Preview_Frame_138
+      frameIndex: 138
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: e14701f545356e24bb8e8c92ab8734fe
+    - name: Magic Trap Preview_Frame_139
+      frameIndex: 139
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 3297805d4f2a69d4f83aaef2854c1631
+    - name: Magic Trap Preview_Frame_140
+      frameIndex: 140
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: b58fe8877bfe44f42a497dcaec4158a2
+    - name: Magic Trap Preview_Frame_141
+      frameIndex: 141
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 3c9578e361eff58439cf1635bdd36e1e
+    - name: Magic Trap Preview_Frame_142
+      frameIndex: 142
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 163ec845a256a5e4c9a37284b9f14c4d
+    - name: Magic Trap Preview_Frame_143
+      frameIndex: 143
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 3d3a600b78dfb1e45b084a2c95df7ae2
+    - name: Magic Trap Preview_Frame_144
+      frameIndex: 144
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: d93f536be2c8ea44abcf2928d35bf999
+    - name: Magic Trap Preview_Frame_145
+      frameIndex: 145
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: cde5232995bd0084dbc143fb39ec5a2e
+    - name: Magic Trap Preview_Frame_146
+      frameIndex: 146
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 72c6040ce610e774db937664f97bbda2
+    - name: Magic Trap Preview_Frame_147
+      frameIndex: 147
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 2d632b9e19c7fd7448f4b45c1298d7e5
+    - name: Magic Trap Preview_Frame_148
+      frameIndex: 148
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: b36a0582f394a0f40b5fd848a2a22866
+    - name: Magic Trap Preview_Frame_149
+      frameIndex: 149
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: cda55123fc7f4a840b0795e2bb222b74
+    - name: Magic Trap Preview_Frame_150
+      frameIndex: 150
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 788e6fee3a42ccb48a5fdfb29141d82c
+    - name: Magic Trap Preview_Frame_151
+      frameIndex: 151
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 9777529842d355641a727df4c9115d13
+    - name: Magic Trap Preview_Frame_152
+      frameIndex: 152
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 62f77bbaabc29b24abd9e96735f97186
+    - name: Magic Trap Preview_Frame_153
+      frameIndex: 153
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: fc6c817465d71db4394f9a81dec0a07f
+    - name: Magic Trap Preview_Frame_154
+      frameIndex: 154
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 5c392ba68219c4743865a5274bcbc9a8
+    - name: Magic Trap Preview_Frame_155
+      frameIndex: 155
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: ddecdfb1fe51c2b4c9bcf25e08ded9f5
+    - name: Magic Trap Preview_Frame_156
+      frameIndex: 156
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 48553dd5fcf3e3143bbeed888957bbf1
+    - name: Magic Trap Preview_Frame_157
+      frameIndex: 157
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: fbdce1b9732f36a48947b4da581048a4
+    - name: Magic Trap Preview_Frame_158
+      frameIndex: 158
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 7be916c528f9b92498d0825a98562cd7
+    - name: Magic Trap Preview_Frame_159
+      frameIndex: 159
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 92e7499876d5d13429afaea9407ae08a
+    - name: Magic Trap Preview_Frame_160
+      frameIndex: 160
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 14f8bcae1129b9644b6f9bd0c9fda367
+    - name: Magic Trap Preview_Frame_161
+      frameIndex: 161
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: d737727f56e570943b4cd744ca7540d3
+    - name: Magic Trap Preview_Frame_162
+      frameIndex: 162
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: ad3be24e68c6849489ffdd1562064fb6
+    - name: Magic Trap Preview_Frame_163
+      frameIndex: 163
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: fa6ec63b430e73d4db61f8696407bb04
+    - name: Magic Trap Preview_Frame_164
+      frameIndex: 164
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 414845d80f244cf44a8544120daa0795
+    - name: Magic Trap Preview_Frame_165
+      frameIndex: 165
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 22cfe5999267a454cb389c6e8b083488
+    - name: Magic Trap Preview_Frame_166
+      frameIndex: 166
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 3a6a055bd63b0034aa5b01ee648f1ed8
+    - name: Magic Trap Preview_Frame_167
+      frameIndex: 167
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 8ea212bfedb60bc43a01160c7bf7f982
+    - name: Magic Trap Preview_Frame_168
+      frameIndex: 168
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 182de53c20846df41a8651ceace26c19
+    - name: Magic Trap Preview_Frame_169
+      frameIndex: 169
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 61884e6964ce4044d9e00e88fc114018
+    - name: Magic Trap Preview_Frame_170
+      frameIndex: 170
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: ec576f18945fae141b26126e67a2bb2f
+    - name: Magic Trap Preview_Frame_171
+      frameIndex: 171
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 9d5f8267eaed8494b8c818dae8be4a81
+    - name: Magic Trap Preview_Frame_172
+      frameIndex: 172
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 7571741f72aa884429abb32dff2e11de
+    - name: Magic Trap Preview_Frame_173
+      frameIndex: 173
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 8803e6a0697c94240bb905999e64153c
+    - name: Magic Trap Preview_Frame_174
+      frameIndex: 174
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 1231400139b64be4fa76463434d1f8f2
+    - name: Magic Trap Preview_Frame_175
+      frameIndex: 175
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 4385c2c1dc822514790462211130cd5a
+    - name: Magic Trap Preview_Frame_176
+      frameIndex: 176
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 5978e55e266c0b840a3d0b484067c0c0
+    - name: Magic Trap Preview_Frame_177
+      frameIndex: 177
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 5839f34ebf29f3646b59482968088740
+    - name: Magic Trap Preview_Frame_178
+      frameIndex: 178
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 45fed61f44ee79a42b9330fa2a4e0ef1
+    - name: Magic Trap Preview_Frame_179
+      frameIndex: 179
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 5780338726a5056498d2578a404c1ec4
+    - name: Magic Trap Preview_Frame_180
+      frameIndex: 180
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 7c6b74acb0b440c4fbba9c36635c030b
+    - name: Magic Trap Preview_Frame_181
+      frameIndex: 181
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: eb7c2f7761ef1c54ab109106473e82b6
+    - name: Magic Trap Preview_Frame_182
+      frameIndex: 182
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 7b4b9101b619a3440995e16095c735d3
+    - name: Magic Trap Preview_Frame_183
+      frameIndex: 183
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: b94516f74442f5a46abd9c24bfdf4a8c
+    - name: Magic Trap Preview_Frame_184
+      frameIndex: 184
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: fe5b92aefb8953440a321b2627bd46de
+    - name: Magic Trap Preview_Frame_185
+      frameIndex: 185
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 468800295d4a9944eaa90d54ee5b3090
+    - name: Magic Trap Preview_Frame_186
+      frameIndex: 186
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: edffdaad435991048a4f16b56d7d2e0f
+    - name: Magic Trap Preview_Frame_187
+      frameIndex: 187
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: fc625e79acae59d45b764e4c44510fae
+    - name: Magic Trap Preview_Frame_188
+      frameIndex: 188
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 15e21f1a362f2ee45939cab67dd9d708
+    - name: Magic Trap Preview_Frame_189
+      frameIndex: 189
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: b8f28cb5d81f38343804889f7ace96e7
+    - name: Magic Trap Preview_Frame_190
+      frameIndex: 190
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 15841ac18d9bb4844910313ce98e19e1
+    - name: Magic Trap Preview_Frame_191
+      frameIndex: 191
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: ccf9afc3c8599d6499ab9fc9cd6dc8e0
+    - name: Magic Trap Preview_Frame_192
+      frameIndex: 192
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: a207fb0aab1a80d4082d37824c259b02
+    - name: Magic Trap Preview_Frame_193
+      frameIndex: 193
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 1ee3cea3514b58b4e879e6d83d48b42c
+    - name: Magic Trap Preview_Frame_194
+      frameIndex: 194
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: a2c9e474f81297e48a04685bea9e4dc6
+    - name: Magic Trap Preview_Frame_195
+      frameIndex: 195
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 188fa960ab66adf4fabba278e8064ed8
+    - name: Magic Trap Preview_Frame_196
+      frameIndex: 196
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 31c2d6d462fcb6e4ca8fbae9d99a560a
+    - name: Magic Trap Preview_Frame_197
+      frameIndex: 197
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: c1ad5a1adbc40514b902b81386facfcd
+    - name: Magic Trap Preview_Frame_198
+      frameIndex: 198
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 2130fafe90633b94885eeb65f3e6c76e
+    - name: Magic Trap Preview_Frame_199
+      frameIndex: 199
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: b6ebbbef5ccce9a44874c0dd9634b0eb
+    - name: Magic Trap Preview_Frame_200
+      frameIndex: 200
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 835a9e8e22ef1ba4db1500a75776fb46
+    - name: Magic Trap Preview_Frame_201
+      frameIndex: 201
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 87e3e8d1d69e14f498a7de2b44dc9ec4
+    - name: Magic Trap Preview_Frame_202
+      frameIndex: 202
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 27807972eafd76c44b8ee877b539191a
+    - name: Magic Trap Preview_Frame_203
+      frameIndex: 203
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: b72e959b828df0247a08fa3dd7b1e6ea
+    - name: Magic Trap Preview_Frame_204
+      frameIndex: 204
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: abfdd16693f5f054191cab2699912b46
+    - name: Magic Trap Preview_Frame_205
+      frameIndex: 205
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: d05c7a2747495264cbd0b0e15fc77bc0
+    - name: Magic Trap Preview_Frame_206
+      frameIndex: 206
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: a528a0628bfe03b438af2c7a50b7b70d
+    - name: Magic Trap Preview_Frame_207
+      frameIndex: 207
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 309e6170fc839464099655e89af63668
+    - name: Magic Trap Preview_Frame_208
+      frameIndex: 208
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: ce24e101273cb5c429b6f51f82b218aa
+    - name: Magic Trap Preview_Frame_209
+      frameIndex: 209
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 8f5c75be5548e0f4f81677758ed53431
+    - name: Magic Trap Preview_Frame_210
+      frameIndex: 210
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 0966df9dbc937134a9f0d86482bcc71f
+    - name: Magic Trap Preview_Frame_211
+      frameIndex: 211
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 5b4d6424ab97c04458a0bcb4a921f3d0
+    - name: Magic Trap Preview_Frame_212
+      frameIndex: 212
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 5a0c49bb9d68bf64c888bdbc7a35c4c4
+    - name: Magic Trap Preview_Frame_213
+      frameIndex: 213
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: c1934de7742f7524f81a2fba92fc8ea6
+    - name: Magic Trap Preview_Frame_214
+      frameIndex: 214
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 1e9b74f628304ff48a143743abfe74d9
+    - name: Magic Trap Preview_Frame_215
+      frameIndex: 215
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 1d58ac51f42c0574c9a0270037d7fe4c
+    - name: Magic Trap Preview_Frame_216
+      frameIndex: 216
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 582f2556cf8391c4f88792cda3bde3f0
+    - name: Magic Trap Preview_Frame_217
+      frameIndex: 217
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 9f01c0712addfac4c9edd752d6ae9708
+    - name: Magic Trap Preview_Frame_218
+      frameIndex: 218
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 75ed959c1ecca8b48942d85b7befcf4b
+    - name: Magic Trap Preview_Frame_219
+      frameIndex: 219
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 0b919805f008c7548a47ba0c33735152
+    - name: Magic Trap Preview_Frame_220
+      frameIndex: 220
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 50985dcc4eae5b048bd32832725edf54
+    - name: Magic Trap Preview_Frame_221
+      frameIndex: 221
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 0a0cf7a7ab5582d49846e4a597afd55f
+    - name: Magic Trap Preview_Frame_222
+      frameIndex: 222
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: f88117e1112fecd4c9d2fe892f4f2a3c
+    - name: Magic Trap Preview_Frame_223
+      frameIndex: 223
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: cf4747b4cde893c42a6f23cae3193397
+    - name: Magic Trap Preview_Frame_224
+      frameIndex: 224
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 4950081a12e8dbf428ba52e5ab192bb8
+    - name: Magic Trap Preview_Frame_225
+      frameIndex: 225
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 261a333b3a3c01b4db60109f54c79b4a
+    - name: Magic Trap Preview_Frame_226
+      frameIndex: 226
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 4f9e1cd5b95fb994998062cdf5bc0a12
+    - name: Magic Trap Preview_Frame_227
+      frameIndex: 227
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 2d73814b8d786d94a89983de94395583
+    - name: Magic Trap Preview_Frame_228
+      frameIndex: 228
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: f611cba7e0f4a8249990bd95c6ea29be
+    - name: Magic Trap Preview_Frame_229
+      frameIndex: 229
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 24eb80438ef2e4f40b6c1e91ea2afc4c
+    - name: Magic Trap Preview_Frame_230
+      frameIndex: 230
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 5000553436a086b4f8455492bba70f0c
+    - name: Magic Trap Preview_Frame_231
+      frameIndex: 231
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 890226efc0e4b5141aee9457166f1aaa
+    - name: Magic Trap Preview_Frame_232
+      frameIndex: 232
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: e59af28a65a63774aadc4713c3e569ea
+    - name: Magic Trap Preview_Frame_233
+      frameIndex: 233
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 0c2d61147c7c3c94892db1848641188e
+    - name: Magic Trap Preview_Frame_234
+      frameIndex: 234
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: d86702592d4a4644dbd712376ac32c61
+    - name: Magic Trap Preview_Frame_235
+      frameIndex: 235
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 4760c7a96ebf56643ba569e025fdfd18
+    - name: Magic Trap Preview_Frame_236
+      frameIndex: 236
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 976637410126b1749823d658b313d4ad
+    - name: Magic Trap Preview_Frame_237
+      frameIndex: 237
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 0bf3fe614dbe8fa418440d057a2f2acc
+    - name: Magic Trap Preview_Frame_238
+      frameIndex: 238
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 144ceef9432c0584ba770a7d29da4a75
+    - name: Magic Trap Preview_Frame_239
+      frameIndex: 239
+      cellRect:
+        x: 0
+        y: 0
+        width: 144
+        height: 64
+      spriteId: 0bf9c6a154492f44f911eb70126197c5
+    linkedCells: []
+    parentIndex: -1
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 144, y: 64}

@@ -1,0 +1,1256 @@
+fileFormatVersion: 2
+guid: 6fbde865abd324d499983c219bedaf3b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Toxic Trap - Level 1_Frame_0
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 32
+      height: 64
+    spriteID: 10ee70d9b2412684e924a3ab2e9020b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Toxic Trap - Level 1_Frame_1
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 76
+      width: 32
+      height: 64
+    spriteID: de83bb846ac796d42a93d03ed2069173
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 76}
+  - name: Toxic Trap - Level 1_Frame_2
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 148
+      width: 32
+      height: 64
+    spriteID: 05aa48c51a3fd93479664b16f7e7baf3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 148}
+  - name: Toxic Trap - Level 1_Frame_3
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 220
+      width: 32
+      height: 64
+    spriteID: ae3408e5e1d48894b835fe2f70708312
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 220}
+  - name: Toxic Trap - Level 1_Frame_4
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 292
+      width: 32
+      height: 64
+    spriteID: b19cea1865197054aafa0e00dc8bcc27
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 292}
+  - name: Toxic Trap - Level 1_Frame_5
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 364
+      width: 32
+      height: 64
+    spriteID: 2b6e86fe8615ce4458be39b792f79f4a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 364}
+  - name: Toxic Trap - Level 1_Frame_6
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 436
+      width: 32
+      height: 64
+    spriteID: 45ddc826dc44d874e94da98b1ea1fb2c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 436}
+  - name: Toxic Trap - Level 1_Frame_7
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 4
+      width: 32
+      height: 64
+    spriteID: 0c12233bdf158b142b643dddb5c3e28c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 4}
+  - name: Toxic Trap - Level 1_Frame_8
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 76
+      width: 32
+      height: 64
+    spriteID: 91766e73a5beaea40aecc38118e5783a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 76}
+  - name: Toxic Trap - Level 1_Frame_9
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 148
+      width: 32
+      height: 64
+    spriteID: b1041b2a4f9ba614fae023dcc7ba4c36
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 148}
+  - name: Toxic Trap - Level 1_Frame_10
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 220
+      width: 32
+      height: 64
+    spriteID: 2c5fc0acf00ae184ea51bc42dfd9881d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 220}
+  - name: Toxic Trap - Level 1_Frame_11
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 292
+      width: 32
+      height: 64
+    spriteID: 78e93766e29e20a4eae1b33f7b733714
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 292}
+  - name: Toxic Trap - Level 1_Frame_12
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 364
+      width: 32
+      height: 64
+    spriteID: 29b814fc25a6ed74a960d117687c2455
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 364}
+  - name: Toxic Trap - Level 1_Frame_13
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 44
+      y: 436
+      width: 32
+      height: 64
+    spriteID: 9b438c344a5a6b648995e983925870c4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 44, y: 436}
+  - name: Toxic Trap - Level 1_Frame_14
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 4
+      width: 32
+      height: 64
+    spriteID: 54043fb50ec5f294db800453776f7f16
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 4}
+  - name: Toxic Trap - Level 1_Frame_15
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 76
+      width: 32
+      height: 64
+    spriteID: 469b28933b1c721468b397dd9336b649
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 76}
+  - name: Toxic Trap - Level 1_Frame_16
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 148
+      width: 32
+      height: 64
+    spriteID: 46809c27c38ba7340a5f68891f982dbb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 148}
+  - name: Toxic Trap - Level 1_Frame_17
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 220
+      width: 32
+      height: 64
+    spriteID: 29f102f554c60834eabdfe748b2b54cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 220}
+  - name: Toxic Trap - Level 1_Frame_18
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 292
+      width: 32
+      height: 64
+    spriteID: 870c9155fd110c94190eca729f5b64f9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 292}
+  - name: Toxic Trap - Level 1_Frame_19
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 364
+      width: 32
+      height: 64
+    spriteID: c93b10be4d996e8419eef61ab9c4c799
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 364}
+  - name: Toxic Trap - Level 1_Frame_20
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 84
+      y: 436
+      width: 32
+      height: 64
+    spriteID: a8835850dea24bb4d86fec82fd3cb56f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 84, y: 436}
+  - name: Toxic Trap - Level 1_Frame_21
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 4
+      width: 32
+      height: 64
+    spriteID: 30abdfe4923ec3b44a4a14e72cff8f06
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 4}
+  - name: Toxic Trap - Level 1_Frame_22
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 76
+      width: 32
+      height: 64
+    spriteID: d010185c9c745844b814d38c2086636c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 76}
+  - name: Toxic Trap - Level 1_Frame_23
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 148
+      width: 32
+      height: 64
+    spriteID: 8a12b0465f44a21449175c670ce6f287
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 148}
+  - name: Toxic Trap - Level 1_Frame_24
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 220
+      width: 32
+      height: 64
+    spriteID: d5d0e282e002f1c4b9bdd1c0770d155f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 220}
+  - name: Toxic Trap - Level 1_Frame_25
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 292
+      width: 32
+      height: 64
+    spriteID: 737fb2af99ad4cf41914b230942e43e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 292}
+  - name: Toxic Trap - Level 1_Frame_26
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 364
+      width: 32
+      height: 64
+    spriteID: 2286da8d08e8c704d877b4bf02be1e2f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 364}
+  - name: Toxic Trap - Level 1_Frame_27
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 124
+      y: 436
+      width: 32
+      height: 64
+    spriteID: 624ace6c4924b1c4a8aa6ede85f648da
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 124, y: 436}
+  - name: Toxic Trap - Level 1_Frame_28
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 164
+      y: 4
+      width: 32
+      height: 64
+    spriteID: cdd37fe333739934baee6d1ea157b660
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 164, y: 4}
+  - name: Toxic Trap - Level 1_Frame_29
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 164
+      y: 76
+      width: 32
+      height: 64
+    spriteID: bbe5409f09bb6d643af363493fa91aec
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 164, y: 76}
+  - name: Toxic Trap - Level 1_Frame_30
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 164
+      y: 148
+      width: 32
+      height: 64
+    spriteID: 88b3f53b2a696b849a64c337958fca4b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 164, y: 148}
+  - name: Toxic Trap - Level 1_Frame_31
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 164
+      y: 220
+      width: 32
+      height: 64
+    spriteID: 611101a19ba6f7a458913035a675a369
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 164, y: 220}
+  - name: Toxic Trap - Level 1_Frame_32
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 164
+      y: 292
+      width: 32
+      height: 64
+    spriteID: 1fcb28f882632a24db91a0fa7aa39d1a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 164, y: 292}
+  - name: Toxic Trap - Level 1_Frame_33
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 164
+      y: 364
+      width: 32
+      height: 64
+    spriteID: e4fe30d4c491d334c81d29ee8ff82a5b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 164, y: 364}
+  - name: Toxic Trap - Level 1_Frame_34
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 164
+      y: 436
+      width: 32
+      height: 64
+    spriteID: 60186e4353867324a8d2488cb2b363d8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 164, y: 436}
+  - name: Toxic Trap - Level 1_Frame_35
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 4
+      width: 32
+      height: 64
+    spriteID: a6a5de26948e01e4ca2151639e5a39ce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 4}
+  - name: Toxic Trap - Level 1_Frame_36
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 76
+      width: 32
+      height: 64
+    spriteID: 0c9b1325102e86340ba9c2c1a48973d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 76}
+  - name: Toxic Trap - Level 1_Frame_37
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 148
+      width: 32
+      height: 64
+    spriteID: cc52801e2587fee48bb05769869d82bb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 148}
+  - name: Toxic Trap - Level 1_Frame_38
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 220
+      width: 32
+      height: 64
+    spriteID: 605696ca8dd4ae045b130b760d5d266a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 220}
+  - name: Toxic Trap - Level 1_Frame_39
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 204
+      y: 292
+      width: 32
+      height: 64
+    spriteID: f860663cf75e05b40bc08c4b6435d01a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 204, y: 292}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -1532596002
+    name: Toxic Trap - Level 1
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Toxic Trap - Level 1_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: 10ee70d9b2412684e924a3ab2e9020b9
+    - name: Toxic Trap - Level 1_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: de83bb846ac796d42a93d03ed2069173
+    - name: Toxic Trap - Level 1_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: 05aa48c51a3fd93479664b16f7e7baf3
+    - name: Toxic Trap - Level 1_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: ae3408e5e1d48894b835fe2f70708312
+    - name: Toxic Trap - Level 1_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: b19cea1865197054aafa0e00dc8bcc27
+    - name: Toxic Trap - Level 1_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: 2b6e86fe8615ce4458be39b792f79f4a
+    - name: Toxic Trap - Level 1_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: 45ddc826dc44d874e94da98b1ea1fb2c
+    - name: Toxic Trap - Level 1_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: 0c12233bdf158b142b643dddb5c3e28c
+    - name: Toxic Trap - Level 1_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: 91766e73a5beaea40aecc38118e5783a
+    - name: Toxic Trap - Level 1_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: b1041b2a4f9ba614fae023dcc7ba4c36
+    - name: Toxic Trap - Level 1_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: 2c5fc0acf00ae184ea51bc42dfd9881d
+    - name: Toxic Trap - Level 1_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: 78e93766e29e20a4eae1b33f7b733714
+    - name: Toxic Trap - Level 1_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: 29b814fc25a6ed74a960d117687c2455
+    - name: Toxic Trap - Level 1_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: 9b438c344a5a6b648995e983925870c4
+    - name: Toxic Trap - Level 1_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: 54043fb50ec5f294db800453776f7f16
+    - name: Toxic Trap - Level 1_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: 469b28933b1c721468b397dd9336b649
+    - name: Toxic Trap - Level 1_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: 46809c27c38ba7340a5f68891f982dbb
+    - name: Toxic Trap - Level 1_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: 29f102f554c60834eabdfe748b2b54cb
+    - name: Toxic Trap - Level 1_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: 870c9155fd110c94190eca729f5b64f9
+    - name: Toxic Trap - Level 1_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: c93b10be4d996e8419eef61ab9c4c799
+    - name: Toxic Trap - Level 1_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: a8835850dea24bb4d86fec82fd3cb56f
+    - name: Toxic Trap - Level 1_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: 30abdfe4923ec3b44a4a14e72cff8f06
+    - name: Toxic Trap - Level 1_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: d010185c9c745844b814d38c2086636c
+    - name: Toxic Trap - Level 1_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: 8a12b0465f44a21449175c670ce6f287
+    - name: Toxic Trap - Level 1_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: d5d0e282e002f1c4b9bdd1c0770d155f
+    - name: Toxic Trap - Level 1_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: 737fb2af99ad4cf41914b230942e43e0
+    - name: Toxic Trap - Level 1_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: 2286da8d08e8c704d877b4bf02be1e2f
+    - name: Toxic Trap - Level 1_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: 624ace6c4924b1c4a8aa6ede85f648da
+    - name: Toxic Trap - Level 1_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: cdd37fe333739934baee6d1ea157b660
+    - name: Toxic Trap - Level 1_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: bbe5409f09bb6d643af363493fa91aec
+    - name: Toxic Trap - Level 1_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: 88b3f53b2a696b849a64c337958fca4b
+    - name: Toxic Trap - Level 1_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: 611101a19ba6f7a458913035a675a369
+    - name: Toxic Trap - Level 1_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: 1fcb28f882632a24db91a0fa7aa39d1a
+    - name: Toxic Trap - Level 1_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: e4fe30d4c491d334c81d29ee8ff82a5b
+    - name: Toxic Trap - Level 1_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: 60186e4353867324a8d2488cb2b363d8
+    - name: Toxic Trap - Level 1_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: a6a5de26948e01e4ca2151639e5a39ce
+    - name: Toxic Trap - Level 1_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: 0c9b1325102e86340ba9c2c1a48973d0
+    - name: Toxic Trap - Level 1_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: cc52801e2587fee48bb05769869d82bb
+    - name: Toxic Trap - Level 1_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: 605696ca8dd4ae045b130b760d5d266a
+    - name: Toxic Trap - Level 1_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 32
+        y: 0
+        width: 32
+        height: 64
+      spriteId: f860663cf75e05b40bc08c4b6435d01a
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 96, y: 64}

@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: 70d96afdb4953984ea0f5a6e40dd8bda
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Punch Trap - Level 3 - Transition_Frame_0
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 64
+      height: 32
+    spriteID: d76adad58ceaae94faf52af4fc1617b0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Punch Trap - Level 3 - Transition_Frame_1
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 4
+      width: 64
+      height: 32
+    spriteID: 91137ca03132ade489d01fadfcddd25c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 4}
+  - name: Punch Trap - Level 3 - Transition_Frame_2
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 4
+      width: 64
+      height: 32
+    spriteID: c267dcdbd81881f4d8a329b810eb2ae9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 148, y: 4}
+  - name: Punch Trap - Level 3 - Transition_Frame_3
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 44
+      width: 64
+      height: 32
+    spriteID: 324eca9712727dd4b8739d1c9665083c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 44}
+  - name: Punch Trap - Level 3 - Transition_Frame_4
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 44
+      width: 64
+      height: 32
+    spriteID: 0b0aa16e1f67ff54f9e1f28f7f00fe94
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 44}
+  - name: Punch Trap - Level 3 - Transition_Frame_5
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 44
+      width: 64
+      height: 32
+    spriteID: c9f0efd05b2cd5e40b05301bef5635ab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 148, y: 44}
+  - name: Punch Trap - Level 3 - Transition_Frame_6
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 84
+      width: 64
+      height: 32
+    spriteID: 77cc08d620b62c64cbad7da07dad0e60
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 84}
+  - name: Punch Trap - Level 3 - Transition_Frame_7
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 84
+      width: 64
+      height: 32
+    spriteID: ec3341718c4514047b6ebcc0785fdeab
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 84}
+  - name: Punch Trap - Level 3 - Transition_Frame_8
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 84
+      width: 64
+      height: 32
+    spriteID: cb77dc485bff3c94b9576facfb4171e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 148, y: 84}
+  - name: Punch Trap - Level 3 - Transition_Frame_9
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 124
+      width: 64
+      height: 32
+    spriteID: dc5a640f09996134784c95e54a7b3518
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 124}
+  - name: Punch Trap - Level 3 - Transition_Frame_10
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 124
+      width: 64
+      height: 32
+    spriteID: 0c91bc6a10226b843a4b9284dda0c55b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 124}
+  - name: Punch Trap - Level 3 - Transition_Frame_11
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 124
+      width: 64
+      height: 32
+    spriteID: 49f7525ec51fa584390f50b68cd7145d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 148, y: 124}
+  - name: Punch Trap - Level 3 - Transition_Frame_12
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 164
+      width: 64
+      height: 32
+    spriteID: 285246ec23ae378438303858b1e3f6a1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 164}
+  - name: Punch Trap - Level 3 - Transition_Frame_13
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 164
+      width: 64
+      height: 32
+    spriteID: e8a001c5805582d49bd33337256b560d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 164}
+  - name: Punch Trap - Level 3 - Transition_Frame_14
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 164
+      width: 64
+      height: 32
+    spriteID: 2efb1731dc9782c40b9078fb0f3e0d44
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 148, y: 164}
+  - name: Punch Trap - Level 3 - Transition_Frame_15
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 204
+      width: 64
+      height: 32
+    spriteID: 6d5ddb0be53d62d468d096f095b1f6ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 204}
+  - name: Punch Trap - Level 3 - Transition_Frame_16
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 204
+      width: 64
+      height: 32
+    spriteID: 28bd84b4fa5523148b0fe30e5704798d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 204}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1768794189
+    name: Punch Trap - Level 3 - Transition
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Punch Trap - Level 3 - Transition_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 16
+        y: 0
+        width: 64
+        height: 32
+      spriteId: d76adad58ceaae94faf52af4fc1617b0
+    - name: Punch Trap - Level 3 - Transition_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 16
+        y: 0
+        width: 64
+        height: 32
+      spriteId: 91137ca03132ade489d01fadfcddd25c
+    - name: Punch Trap - Level 3 - Transition_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 16
+        y: 0
+        width: 64
+        height: 32
+      spriteId: c267dcdbd81881f4d8a329b810eb2ae9
+    - name: Punch Trap - Level 3 - Transition_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 16
+        y: 0
+        width: 64
+        height: 32
+      spriteId: 324eca9712727dd4b8739d1c9665083c
+    - name: Punch Trap - Level 3 - Transition_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 16
+        y: 0
+        width: 64
+        height: 32
+      spriteId: 0b0aa16e1f67ff54f9e1f28f7f00fe94
+    - name: Punch Trap - Level 3 - Transition_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 16
+        y: 0
+        width: 64
+        height: 32
+      spriteId: c9f0efd05b2cd5e40b05301bef5635ab
+    - name: Punch Trap - Level 3 - Transition_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 16
+        y: 0
+        width: 64
+        height: 32
+      spriteId: 77cc08d620b62c64cbad7da07dad0e60
+    - name: Punch Trap - Level 3 - Transition_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 16
+        y: 0
+        width: 64
+        height: 32
+      spriteId: ec3341718c4514047b6ebcc0785fdeab
+    - name: Punch Trap - Level 3 - Transition_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 16
+        y: 0
+        width: 64
+        height: 32
+      spriteId: cb77dc485bff3c94b9576facfb4171e2
+    - name: Punch Trap - Level 3 - Transition_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 16
+        y: 0
+        width: 64
+        height: 32
+      spriteId: dc5a640f09996134784c95e54a7b3518
+    - name: Punch Trap - Level 3 - Transition_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 16
+        y: 0
+        width: 64
+        height: 32
+      spriteId: 0c91bc6a10226b843a4b9284dda0c55b
+    - name: Punch Trap - Level 3 - Transition_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 16
+        y: 0
+        width: 64
+        height: 32
+      spriteId: 49f7525ec51fa584390f50b68cd7145d
+    - name: Punch Trap - Level 3 - Transition_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 16
+        y: 0
+        width: 64
+        height: 32
+      spriteId: 285246ec23ae378438303858b1e3f6a1
+    - name: Punch Trap - Level 3 - Transition_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 16
+        y: 0
+        width: 64
+        height: 32
+      spriteId: e8a001c5805582d49bd33337256b560d
+    - name: Punch Trap - Level 3 - Transition_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 16
+        y: 0
+        width: 64
+        height: 32
+      spriteId: 2efb1731dc9782c40b9078fb0f3e0d44
+    - name: Punch Trap - Level 3 - Transition_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 16
+        y: 0
+        width: 64
+        height: 32
+      spriteId: 6d5ddb0be53d62d468d096f095b1f6ba
+    - name: Punch Trap - Level 3 - Transition_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 16
+        y: 0
+        width: 64
+        height: 32
+      spriteId: 28bd84b4fa5523148b0fe30e5704798d
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 96, y: 32}
